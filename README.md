@@ -11,9 +11,9 @@ Example
 
 temp_ssh is a command line tool, below are example argurements.
 
-CLI::
+CLI:
 
-usage: temp_ssh [-h] [--sg SG] [--sg-clean-up SG_CLEAN_UP] [--env ENV]
+~~~~usage: temp_ssh [-h] [--sg SG] [--sg-clean-up SG_CLEAN_UP] [--env ENV]
                    [--env-clean-up ENV_CLEAN_UP]
 
 optional arguments:
@@ -23,9 +23,8 @@ optional arguments:
   --env ENV             Provide an enviroment file
   --env-clean-up ENV_CLEAN_UP
                         Provide an environment to be cleaned up
+~~~~
 
 Install
 ---------
-::$ pip install temp_ssh
-
-
+`$ pip install temp_ssh`
