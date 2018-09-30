@@ -24,5 +24,7 @@ CLI::
 
 Install
 ---------
+
 ::      
-        `$ pip install temp_ssh`
+ 
+        $ pip install temp_ssh
