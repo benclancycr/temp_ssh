@@ -1,4 +1,3 @@
-=======
 temp_ssh
 =======
 
@@ -25,9 +24,8 @@ optional arguments:
   --env-clean-up ENV_CLEAN_UP
                         Provide an environment to be cleaned up
 
-Instal
+Install
 ---------
-::
-	$ pip install temp_ssh
+::$ pip install temp_ssh
 
 
