@@ -35,4 +35,4 @@ Install
 
 To Do
 -----------
-[] Create lambda for clean-up #[checkbox:uncheckd]
+[] Create lambda for clean-up
