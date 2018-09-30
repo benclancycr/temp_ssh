@@ -13,7 +13,8 @@ temp_ssh is a command line tool, below are example argurements.
 
 CLI:
 
-~~~~usage: temp_ssh [-h] [--sg SG] [--sg-clean-up SG_CLEAN_UP] [--env ENV]
+~~~~
+usage: temp_ssh [-h] [--sg SG] [--sg-clean-up SG_CLEAN_UP] [--env ENV]
                    [--env-clean-up ENV_CLEAN_UP]
 
 optional arguments:
