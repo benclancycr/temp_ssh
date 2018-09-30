@@ -22,9 +22,17 @@ CLI::
           --env ENV                     Provide an enviroment file
           --env-clean-up ENV_CLEAN_UP   Provide an environment to be cleaned up
 
+        temp_ssh --env Sandbox 
+
+To make use of an environment file, populate config.json.example and convert the file to config.json. --env by deafult looks for config.json in the directory it is ran from
+
 Install
 ---------
 
 ::      
  
         $ pip install temp_ssh
+
+To Do
+-----------
+[] Create lambda for clean-up #[checkbox:uncheckd]
