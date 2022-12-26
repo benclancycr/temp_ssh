@@ -13,7 +13,7 @@ install_requirements = [
         "boto3>=1.3.0,<2",
         "setuptools==37.0.0",
         "six==1.11.0",
-        "wheel==0.30.0"
+        "wheel==0.38.1"
         ]
 
 setup(
