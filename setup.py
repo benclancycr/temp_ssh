@@ -11,7 +11,7 @@ with open("HISTORY.rst") as history_file:
 
 install_requirements = [
         "boto3>=1.3.0,<2",
-        "setuptools==37.0.0",
+        "setuptools==65.5.1",
         "six==1.11.0",
         "wheel==0.30.0"
         ]
